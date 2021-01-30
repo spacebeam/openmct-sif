@@ -1,8 +1,8 @@
 # openmct-sif
-Open MCT in a Singularity Container
+Open MCT (Mission Control Technologies) in a Singularity Container
 
 ## Open MCT
-Open MCT (Mission Control Technologies) is a next-generation mission control framework for visualization of data on desktop and mobile devices.
+Open MCT is a next-generation mission control framework for visualization of data on desktop and mobile devices.
 
 As a generalizable and open source framework, Open MCT could be used as the basis for building applications for planning, operation, and analysis of any systems producing telemetry data.
 
